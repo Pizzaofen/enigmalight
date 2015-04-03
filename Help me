@@ -1,0 +1,3 @@
+I need help, my karatelight16 doesn´t work on on Golden Interstar (Xpeed) LX1. The last plugin ist wrong (root@Xpeedlx1:~# ikpg install enigma2-plugin-extensions-atmolightd_0.5-r1_mipsel.ipk"
+The step before "root@xpeedLX1:~# karate-drivertest /dev/ttyACM0" works fine and correctly.
+Please help! Thanks a lot! Carsten Presser has send Logfiles to you. Thanks and happy easter
